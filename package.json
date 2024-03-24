@@ -1,0 +1,18 @@
+{
+  "name": "superapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1",
+    "graphql": "^16.8.1",
+    "pg": "^8.11.3",
+    "prisma": "^5.11.0"
+  }
+}
